@@ -1,2 +1,2 @@
 # example
-Exemplo para o workshop de git na Semana de Informática da UNIFAI
+Exemplo para o workshop de git na Semana de Informática da UNIFAI 2018.
